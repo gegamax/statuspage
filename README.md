@@ -1,4 +1,4 @@
-[![Health Check](../../actions/workflows/health-check.yml/badge.svg)](../../actions/workflows/health-check.yml)
+[![Scheduled Health Check](https://github.com/gegamax/statuspage/actions/workflows/health-check.yml/badge.svg?branch=main)](https://github.com/gegamax/statuspage/actions/workflows/health-check.yml)
 
 # Statsig's Open-Source Status Page
 
